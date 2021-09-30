@@ -1,0 +1,10 @@
+Layer in web app
+
+1.presentation layer-contain user orinted functiinalities
+
+2.Business layer-contains actual implementation
+
+3.data layers:it provides data hosted
+
+what is pagination-we have more pages in websites
+then we have to use pagination
